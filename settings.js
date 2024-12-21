@@ -12,7 +12,7 @@ global.alwaysonline = true
 
 global.autoswview = false
 
-global.public = true
+global.public = false 
 
 global.autoreact = false
 
@@ -20,7 +20,7 @@ global.antidelete = false
 
 global.autotyping = false
 
-global.autoBio = true
+global.autoBio = false 
 
 global.antiSpam = true
 
@@ -28,9 +28,9 @@ global.sign = "〆"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 
-global.bankname = "BLUE"
+global.bankname = "NOSA"
 
-global.accnumber = "7041039367"
+global.accnumber = "9112184365"
 
 global.language = "en"
 global.sessionName = "session"
